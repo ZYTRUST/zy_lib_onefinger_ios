@@ -1,0 +1,65 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
+// swift-module-flags: -target arm64-apple-ios12.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name zy_lib_onefinger_ios
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import Foundation
+import Identy
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+@_exported import zy_lib_onefinger_ios
+public class ZyFingerBio {
+  public typealias CallbackIdenty = (zy_lib_onefinger_ios.ZyFingerResult<zy_lib_onefinger_ios.ZyFingerResponse, zy_lib_onefinger_ios.ZyFingerError>) -> Swift.Void
+  public init(onView: UIKit.UIViewController)
+  public func capturar(request: zy_lib_onefinger_ios.ZyFingerRequest, completion: @escaping zy_lib_onefinger_ios.ZyFingerBio.CallbackIdenty)
+  public func capturarFull(request: zy_lib_onefinger_ios.ZyFingerRequest, completion: @escaping zy_lib_onefinger_ios.ZyFingerBio.CallbackIdenty)
+  @objc deinit
+}
+public struct ZyFingerRequest {
+  public init()
+  public var timeout: Swift.Double
+  public var coDedo: Swift.Int
+  public var isShowTraining: Swift.Bool
+  public var isShowGuide: Swift.Bool
+  public var secMode: Swift.String
+  public var needWSQ: Swift.Bool
+  public var needRAW: Swift.Bool
+  public var needPNG: Swift.Bool
+  public var needANSI: Swift.Bool
+  public var needISO4: Swift.Bool
+  public var needISO2: Swift.Bool
+  public var umbralNfiq: Swift.Int
+  public var licName: Swift.String?
+  public var handScan: Swift.String
+  public var intentos: Swift.Int
+}
+public enum ZyFingerResult<T, E> {
+  case success(T)
+  case error(E)
+}
+public struct ZyFingerResponse {
+  public let coError: Swift.Int
+  public let deError: Swift.String
+  public let fingers: [zy_lib_onefinger_ios.ZyFingerData]
+}
+public struct ZyFingerData {
+  public let nfiq: Swift.String
+  public let wsq: Swift.String
+  public let iso4: Swift.String
+  public let iso2: Swift.String
+  public let png: Swift.String
+  public let raw: Swift.String
+  public let ansi: Swift.String
+  public let height: Swift.String
+  public let width: Swift.String
+  public let hand: Swift.String
+  public let finger: Swift.String
+  public let spoofScore: Swift.String
+  public let transaccionId: Swift.String
+}
+public struct ZyFingerError {
+  public let coError: Swift.Int
+  public let deError: Swift.String
+}
