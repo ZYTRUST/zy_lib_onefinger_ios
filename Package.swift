@@ -12,7 +12,7 @@ let package = Package(
         .library(name: "zy-lib-onefinger-ios", targets: ["zy-lib-onefinger-ios"])
     ],
     dependencies: [
-        .package(url: "https://github.com/ZYTRUST/Identy.git", from: "5.9.0")
+        //.package(url: "https://github.com/ZYTRUST/Identy.git", from: "5.9.0")
     ],
     targets: [
         .target(
