@@ -17,7 +17,9 @@ let package = Package(
         //.package(url: "https://github.com/ZYTRUST/Identy.git", from: "5.9.0")
     ],
     targets: [
-    .target(name: "zy-lib-onefinger-ios", dependencies: [])
-  
+ .binaryTarget(
+            name: "zy_lib_onefinger_ios",
+            path: "zy_lib_onefinger_ios.framework"
+        )  
     ]
 )
