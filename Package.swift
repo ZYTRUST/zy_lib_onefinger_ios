@@ -19,7 +19,7 @@ let package = Package(
     targets: [
  .binaryTarget(
             name: "zy_lib_onefinger_ios",
-            path: "zy_lib_onefinger_ios.framework"
+            path: "zy_lib_onefinger_ios.xcframework"
         )  
     ]
 )
