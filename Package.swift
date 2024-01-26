@@ -17,7 +17,7 @@ let package = Package(
     targets: [
         .target(
             name: "zy-lib-onefinger-ios",
-            dependencies: ["Identy"],
+            //dependencies: ["Identy"],
             path: "zy_lib_onefinger_ios.framework" // Reemplaza esto con la ruta real a tu framework si no está en la raíz del paquete
         )
     ]
