@@ -4,13 +4,13 @@
 import PackageDescription
 
 let package = Package(
-    name: "zy-lib-onefinger-ios",
+    name: "zy_lib_onefinger_ios",
     defaultLocalization: "es",
     platforms: [
         .iOS(.v12)
     ],
     products: [
-        .library(name: "zy-lib-onefinger-ios", targets: ["zy-lib-onefinger-ios"])
+        .library(name: "zy_lib_onefinger_ios", targets: ["zy_lib_onefinger_ios"])
 
     ],
     dependencies: [
