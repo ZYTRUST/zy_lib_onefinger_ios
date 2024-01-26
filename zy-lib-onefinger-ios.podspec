@@ -4,7 +4,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'zy-lib-onefinger-ios'
-  s.version          = '0.2.0'
+  s.version          = '0.2.1'
   s.summary          = 'Libreria dactilar sin contacto zy-lib-onefinger-ios.'
 
   s.description      = <<-DESC
@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Edwin Sanchez' => 'esanchez@zytrust.com' }
   s.source           = { :git => 'https://github.com/ZYTRUST/zy-lib-onefinger-ios.git', :tag => s.version.to_s }
-  s.vendored_frameworks = "zy_lib_onefinger_ios.xcframework"
+  s.vendored_frameworks = "zy_lib_onefinger_ios.framework"
 
 
   s.ios.deployment_target = '12.0'
