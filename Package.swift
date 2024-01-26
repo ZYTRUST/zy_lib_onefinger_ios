@@ -5,6 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "zy-lib-onefinger-ios",
+    defaultLocalization: "es",
     platforms: [
         .iOS(.v12)
     ],
