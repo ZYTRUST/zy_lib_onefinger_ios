@@ -54,6 +54,8 @@ public struct ZyFingerData {
   public let ansi: Swift.String
   public let height: Swift.String
   public let width: Swift.String
+  public let heightTemplate: Swift.Int
+  public let widthTemplate: Swift.Int
   public let hand: Swift.String
   public let finger: Swift.String
   public let spoofScore: Swift.String

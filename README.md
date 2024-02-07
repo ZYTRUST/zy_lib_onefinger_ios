@@ -10,6 +10,8 @@
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
+Version estable 0.3.1 en github
+bitbucket 5.8.2
 
 ## Installation
 
@@ -22,7 +24,7 @@ pod 'zy-lib-onefinger-ios'
 
 ## Author
 
-Edwin Sanchez, esanchez@zytrust.com
+Ivan Caceres, icaceres@zytrust.com
 
 ## License
 
