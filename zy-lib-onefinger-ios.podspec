@@ -4,7 +4,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'zy_lib_onefinger_ios'
-  s.version          = '0.3.5'
+  s.version          = '0.3.6'
   s.summary          = 'Libreria dactilar sin contacto zy-lib-onefinger-ios.'
 
   s.description      = <<-DESC

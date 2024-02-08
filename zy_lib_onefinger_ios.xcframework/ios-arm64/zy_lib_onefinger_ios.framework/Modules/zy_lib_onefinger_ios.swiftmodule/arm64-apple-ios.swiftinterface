@@ -37,6 +37,7 @@ public struct ZyFingerRequest {
   public var SLAP_PNG: Swift.Bool
   public var SLAP_WSQ: Swift.Bool
   public var base64EncodingFlag: Swift.Bool
+  public var compresion: Identy.WSQCompressionType
 }
 public enum ZyFingerResult<T, E> {
   case success(T)
