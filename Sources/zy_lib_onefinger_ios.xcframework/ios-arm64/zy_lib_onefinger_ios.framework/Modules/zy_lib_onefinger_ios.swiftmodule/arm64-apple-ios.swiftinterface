@@ -34,6 +34,9 @@ public struct ZyFingerRequest {
   public var licName: Swift.String?
   public var handScan: Swift.String
   public var intentos: Swift.Int
+  public var SLAP_PNG: Swift.Bool
+  public var SLAP_WSQ: Swift.Bool
+  public var base64EncodingFlag: Swift.Bool
 }
 public enum ZyFingerResult<T, E> {
   case success(T)

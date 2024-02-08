@@ -1567,6 +1567,264 @@
                 "accessorKind": "_modify"
               }
             ]
+          },
+          {
+            "kind": "Var",
+            "name": "SLAP_PNG",
+            "printedName": "SLAP_PNG",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:20zy_lib_onefinger_ios15ZyFingerRequestV8SLAP_PNGSbvp",
+            "mangledName": "$s20zy_lib_onefinger_ios15ZyFingerRequestV8SLAP_PNGSbvp",
+            "moduleName": "zy_lib_onefinger_ios",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20zy_lib_onefinger_ios15ZyFingerRequestV8SLAP_PNGSbvg",
+                "mangledName": "$s20zy_lib_onefinger_ios15ZyFingerRequestV8SLAP_PNGSbvg",
+                "moduleName": "zy_lib_onefinger_ios",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20zy_lib_onefinger_ios15ZyFingerRequestV8SLAP_PNGSbvs",
+                "mangledName": "$s20zy_lib_onefinger_ios15ZyFingerRequestV8SLAP_PNGSbvs",
+                "moduleName": "zy_lib_onefinger_ios",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20zy_lib_onefinger_ios15ZyFingerRequestV8SLAP_PNGSbvM",
+                "mangledName": "$s20zy_lib_onefinger_ios15ZyFingerRequestV8SLAP_PNGSbvM",
+                "moduleName": "zy_lib_onefinger_ios",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "SLAP_WSQ",
+            "printedName": "SLAP_WSQ",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:20zy_lib_onefinger_ios15ZyFingerRequestV8SLAP_WSQSbvp",
+            "mangledName": "$s20zy_lib_onefinger_ios15ZyFingerRequestV8SLAP_WSQSbvp",
+            "moduleName": "zy_lib_onefinger_ios",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20zy_lib_onefinger_ios15ZyFingerRequestV8SLAP_WSQSbvg",
+                "mangledName": "$s20zy_lib_onefinger_ios15ZyFingerRequestV8SLAP_WSQSbvg",
+                "moduleName": "zy_lib_onefinger_ios",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20zy_lib_onefinger_ios15ZyFingerRequestV8SLAP_WSQSbvs",
+                "mangledName": "$s20zy_lib_onefinger_ios15ZyFingerRequestV8SLAP_WSQSbvs",
+                "moduleName": "zy_lib_onefinger_ios",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20zy_lib_onefinger_ios15ZyFingerRequestV8SLAP_WSQSbvM",
+                "mangledName": "$s20zy_lib_onefinger_ios15ZyFingerRequestV8SLAP_WSQSbvM",
+                "moduleName": "zy_lib_onefinger_ios",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "base64EncodingFlag",
+            "printedName": "base64EncodingFlag",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:20zy_lib_onefinger_ios15ZyFingerRequestV18base64EncodingFlagSbvp",
+            "mangledName": "$s20zy_lib_onefinger_ios15ZyFingerRequestV18base64EncodingFlagSbvp",
+            "moduleName": "zy_lib_onefinger_ios",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20zy_lib_onefinger_ios15ZyFingerRequestV18base64EncodingFlagSbvg",
+                "mangledName": "$s20zy_lib_onefinger_ios15ZyFingerRequestV18base64EncodingFlagSbvg",
+                "moduleName": "zy_lib_onefinger_ios",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20zy_lib_onefinger_ios15ZyFingerRequestV18base64EncodingFlagSbvs",
+                "mangledName": "$s20zy_lib_onefinger_ios15ZyFingerRequestV18base64EncodingFlagSbvs",
+                "moduleName": "zy_lib_onefinger_ios",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20zy_lib_onefinger_ios15ZyFingerRequestV18base64EncodingFlagSbvM",
+                "mangledName": "$s20zy_lib_onefinger_ios15ZyFingerRequestV18base64EncodingFlagSbvM",
+                "moduleName": "zy_lib_onefinger_ios",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
           }
         ],
         "declKind": "Struct",
@@ -3196,210 +3454,210 @@
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "StringLiteral",
-      "offset": 2069,
+      "offset": 2228,
       "length": 57,
       "value": "\"zy Inicia captura \""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "StringLiteral",
-      "offset": 2124,
+      "offset": 2283,
       "length": 2,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "StringLiteral",
-      "offset": 2343,
+      "offset": 2502,
       "length": 21,
       "value": "\"zy terminó captura\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "StringLiteral",
-      "offset": 2629,
+      "offset": 2788,
       "length": 21,
       "value": "\"zy Error en captura\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "IntegerLiteral",
-      "offset": 3435,
+      "offset": 3594,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "StringLiteral",
-      "offset": 4045,
+      "offset": 4204,
       "length": 5,
       "value": "\"L4F\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "StringLiteral",
-      "offset": 4136,
+      "offset": 4295,
       "length": 23,
       "value": "\"zy Inicia captura L4F\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "StringLiteral",
-      "offset": 4310,
+      "offset": 4469,
       "length": 25,
       "value": "\"zy terminó captura L4F\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "StringLiteral",
-      "offset": 4602,
+      "offset": 4761,
       "length": 30,
       "value": "\"Siguiente captura de huella!\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "StringLiteral",
-      "offset": 4681,
+      "offset": 4840,
       "length": 55,
       "value": "\"Ahora capturamos la siguiente huella Pulgar Izquierdo\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "IntegerLiteral",
-      "offset": 4783,
+      "offset": 4942,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "StringLiteral",
-      "offset": 5165,
+      "offset": 5324,
       "length": 17,
       "value": "\"zy Error en L4F\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "StringLiteral",
-      "offset": 5518,
+      "offset": 5677,
       "length": 4,
       "value": "\"LT\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "StringLiteral",
-      "offset": 5537,
+      "offset": 5696,
       "length": 30,
       "value": "\"zy Inicia captura LEFT_THUMB\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "StringLiteral",
-      "offset": 5718,
+      "offset": 5877,
       "length": 32,
       "value": "\"zy terminó captura LEFT_THUMB\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "StringLiteral",
-      "offset": 6028,
+      "offset": 6187,
       "length": 30,
       "value": "\"Siguiente captura de huella!\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "StringLiteral",
-      "offset": 6107,
+      "offset": 6266,
       "length": 48,
       "value": "\"Ahora capturamos la huellas de la mano derecha\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "IntegerLiteral",
-      "offset": 6202,
+      "offset": 6361,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "StringLiteral",
-      "offset": 6585,
+      "offset": 6744,
       "length": 24,
       "value": "\"zy Error en LEFT_THUMB\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "StringLiteral",
-      "offset": 6945,
+      "offset": 7104,
       "length": 5,
       "value": "\"R4F\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "StringLiteral",
-      "offset": 6965,
+      "offset": 7124,
       "length": 23,
       "value": "\"zy Inicia captura R4F\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "StringLiteral",
-      "offset": 7139,
+      "offset": 7298,
       "length": 25,
       "value": "\"zy terminó captura R4F\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "StringLiteral",
-      "offset": 7442,
+      "offset": 7601,
       "length": 30,
       "value": "\"Siguiente captura de huella!\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "StringLiteral",
-      "offset": 7521,
+      "offset": 7680,
       "length": 53,
       "value": "\"Ahora capturamos la siguiente huella Pulgar derecho\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "IntegerLiteral",
-      "offset": 7621,
+      "offset": 7780,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "StringLiteral",
-      "offset": 8005,
+      "offset": 8164,
       "length": 17,
       "value": "\"zy Error en R4F\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "StringLiteral",
-      "offset": 8359,
+      "offset": 8518,
       "length": 4,
       "value": "\"RT\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "StringLiteral",
-      "offset": 8378,
+      "offset": 8537,
       "length": 31,
       "value": "\"zy inicia captura RIGHT_THUMB\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "StringLiteral",
-      "offset": 8560,
+      "offset": 8719,
       "length": 33,
       "value": "\"zy terminó captura RIGHT_THUMB\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerBio.swift",
       "kind": "StringLiteral",
-      "offset": 9046,
+      "offset": 9205,
       "length": 25,
       "value": "\"zy Error en RIGHT_THUMB\""
     },
@@ -3503,15 +3761,36 @@
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 746,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 784,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 832,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 851,
+      "offset": 981,
       "length": 4,
       "value": "8000"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/ZyFingerModel.swift",
       "kind": "StringLiteral",
-      "offset": 886,
+      "offset": 1016,
       "length": 9,
       "value": "\"8000:OK\""
     },
@@ -3581,791 +3860,819 @@
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 4064,
+      "offset": 4312,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 4085,
+      "offset": 4333,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "BooleanLiteral",
-      "offset": 4352,
+      "offset": 4600,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "BooleanLiteral",
-      "offset": 4570,
+      "offset": 4818,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5100,
+      "offset": 5549,
       "length": 3,
       "value": "512"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5138,
+      "offset": 5587,
       "length": 3,
       "value": "512"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5255,
+      "offset": 5704,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5258,
+      "offset": 5707,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5270,
+      "offset": 5719,
       "length": 3,
       "value": "121"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5274,
+      "offset": 5723,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5285,
+      "offset": 5734,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5295,
+      "offset": 5744,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5337,
+      "offset": 5786,
       "length": 2,
       "value": "55"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5340,
+      "offset": 5789,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5352,
+      "offset": 5801,
       "length": 3,
       "value": "191"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5356,
+      "offset": 5805,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5367,
+      "offset": 5816,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5370,
+      "offset": 5819,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5382,
+      "offset": 5831,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5419,
+      "offset": 5868,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5422,
+      "offset": 5871,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5434,
+      "offset": 5883,
       "length": 3,
       "value": "121"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5438,
+      "offset": 5887,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5449,
+      "offset": 5898,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5459,
+      "offset": 5908,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5497,
+      "offset": 5946,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5500,
+      "offset": 5949,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5512,
+      "offset": 5961,
       "length": 3,
       "value": "114"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5516,
+      "offset": 5965,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5527,
+      "offset": 5976,
       "length": 2,
       "value": "11"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5530,
+      "offset": 5979,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5542,
+      "offset": 5991,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "FloatLiteral",
-      "offset": 5577,
+      "offset": 6026,
       "length": 5,
       "value": "146.0"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5583,
+      "offset": 6032,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "FloatLiteral",
-      "offset": 5595,
+      "offset": 6044,
       "length": 5,
       "value": "210.0"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5601,
+      "offset": 6050,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5612,
+      "offset": 6061,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5622,
+      "offset": 6071,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "FloatLiteral",
-      "offset": 5666,
+      "offset": 6115,
       "length": 5,
       "value": "146.0"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5672,
+      "offset": 6121,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "FloatLiteral",
-      "offset": 5684,
+      "offset": 6133,
       "length": 5,
       "value": "210.0"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5690,
+      "offset": 6139,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5701,
+      "offset": 6150,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "FloatLiteral",
-      "offset": 5711,
+      "offset": 6160,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "FloatLiteral",
-      "offset": 5774,
+      "offset": 6223,
       "length": 5,
       "value": "146.0"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5780,
+      "offset": 6229,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "FloatLiteral",
-      "offset": 5792,
+      "offset": 6241,
       "length": 5,
       "value": "210.0"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5798,
+      "offset": 6247,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "FloatLiteral",
-      "offset": 5809,
+      "offset": 6258,
       "length": 4,
       "value": "81.0"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5814,
+      "offset": 6263,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5826,
+      "offset": 6275,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "FloatLiteral",
-      "offset": 5869,
+      "offset": 6318,
       "length": 5,
       "value": "146.0"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5875,
+      "offset": 6324,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "FloatLiteral",
-      "offset": 5887,
+      "offset": 6336,
       "length": 5,
       "value": "210.0"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5893,
+      "offset": 6342,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "FloatLiteral",
-      "offset": 5904,
+      "offset": 6353,
       "length": 4,
       "value": "81.0"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5909,
+      "offset": 6358,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "FloatLiteral",
-      "offset": 5921,
+      "offset": 6370,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "BooleanLiteral",
-      "offset": 6447,
+      "offset": 6896,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "BooleanLiteral",
-      "offset": 6494,
+      "offset": 6943,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "BooleanLiteral",
-      "offset": 6539,
+      "offset": 6988,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "BooleanLiteral",
-      "offset": 6580,
+      "offset": 7029,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 6774,
+      "offset": 7161,
       "length": 20,
       "value": "\"====>>>> onSuccess\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 6814,
+      "offset": 7201,
       "length": 31,
       "value": "\"noOfAttempts: \""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 6844,
+      "offset": 7231,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 6865,
+      "offset": 7252,
       "length": 53,
       "value": "\"transactionID: \""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 6917,
+      "offset": 7304,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 6999,
+      "offset": 7386,
       "length": 7,
       "value": "\"vacio\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 7025,
+      "offset": 7412,
       "length": 17,
       "value": "\"txnId: \""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 7041,
+      "offset": 7428,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "Array",
-      "offset": 7122,
+      "offset": 7509,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 7275,
+      "offset": 7662,
       "length": 6,
       "value": "\"data\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 7389,
+      "offset": 7776,
       "length": 12,
       "value": "\"background\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 7433,
+      "offset": 7820,
       "length": 9,
       "value": "\"message\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 7582,
+      "offset": 7969,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 7766,
+      "offset": 8153,
       "length": 48,
       "value": "\"nfiq \""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 7804,
+      "offset": 8191,
       "length": 6,
       "value": "\"NFIQ\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 7813,
+      "offset": 8200,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 7892,
+      "offset": 8279,
       "length": 6,
       "value": "\"NFIQ\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 7958,
+      "offset": 8345,
       "length": 6,
       "value": "\"hand\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 7980,
+      "offset": 8367,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 8042,
+      "offset": 8429,
       "length": 8,
       "value": "\"finger\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 8066,
+      "offset": 8453,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 8128,
+      "offset": 8515,
       "length": 7,
       "value": "\"width\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 8152,
+      "offset": 8539,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 8214,
+      "offset": 8601,
       "length": 8,
       "value": "\"height\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 8239,
+      "offset": 8626,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 8436,
+      "offset": 8823,
       "length": 12,
       "value": "\"spoofScore\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "IntegerLiteral",
-      "offset": 8465,
+      "offset": 8852,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 8512,
+      "offset": 8899,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 8560,
+      "offset": 8947,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 8609,
+      "offset": 8996,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 8658,
+      "offset": 9045,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 8707,
+      "offset": 9094,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 8755,
+      "offset": 9142,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 8925,
+      "offset": 9312,
       "length": 11,
       "value": "\"templates\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 9237,
+      "offset": 9624,
       "length": 5,
       "value": "\"WSQ\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 9318,
+      "offset": 9705,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 9767,
+      "offset": 10154,
+      "length": 5,
+      "value": "\"WSQ\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
+      "kind": "StringLiteral",
+      "offset": 10235,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
+      "kind": "StringLiteral",
+      "offset": 10684,
+      "length": 5,
+      "value": "\"WSQ\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
+      "kind": "StringLiteral",
+      "offset": 10765,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
+      "kind": "StringLiteral",
+      "offset": 11214,
       "length": 5,
       "value": "\"PNG\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 10103,
+      "offset": 11550,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 10203,
+      "offset": 11650,
       "length": 13,
       "value": "\"ANSI_INCITS\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 10552,
+      "offset": 11999,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 10652,
+      "offset": 12099,
       "length": 5,
       "value": "\"RAW\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 10988,
+      "offset": 12435,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 11088,
+      "offset": 12535,
       "length": 6,
       "value": "\"ISO2\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 11430,
+      "offset": 12877,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 11530,
+      "offset": 12977,
       "length": 6,
       "value": "\"ISO4\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 11872,
+      "offset": 13319,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 12053,
+      "offset": 13500,
       "length": 23,
       "value": "\"===>>>> ROUND NNfinal\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 13663,
+      "offset": 15110,
       "length": 20,
       "value": "\"====>>>> onFailure\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "BooleanLiteral",
-      "offset": 15435,
+      "offset": 16882,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 15516,
+      "offset": 16963,
       "length": 48,
       "value": "\"====>>>> onAttempts \""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyFinger.swift",
       "kind": "StringLiteral",
-      "offset": 15563,
+      "offset": 17010,
       "length": 2,
       "value": "\"\""
     },
@@ -4428,226 +4735,198 @@
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 565,
+      "offset": 570,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 596,
+      "offset": 605,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 627,
+      "offset": 650,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 682,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 713,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 744,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 659,
+      "offset": 776,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 689,
+      "offset": 806,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "StringLiteral",
-      "offset": 905,
+      "offset": 1022,
       "length": 5,
       "value": "\"LOW\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "StringLiteral",
-      "offset": 998,
+      "offset": 1115,
       "length": 8,
       "value": "\"MEDIUM\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1214,
+      "length": 15,
+      "value": "\"BALANCED_HIGH\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1327,
+      "length": 20,
+      "value": "\"BALANCED_VERY_HIGH\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1450,
+      "length": 11,
+      "value": "\"VERY_HIGH\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1555,
+      "length": 9,
+      "value": "\"HIGHEST\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "Array",
-      "offset": 1488,
+      "offset": 2047,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1516,
+      "offset": 2075,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1618,
+      "offset": 2177,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1718,
+      "offset": 2277,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1812,
+      "offset": 2371,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1826,
+      "offset": 2385,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "StringLiteral",
-      "offset": 1923,
+      "offset": 2482,
       "length": 4,
       "value": "\"RT\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "StringLiteral",
-      "offset": 2030,
+      "offset": 2589,
       "length": 4,
       "value": "\"LT\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "StringLiteral",
-      "offset": 2136,
+      "offset": 2695,
       "length": 5,
       "value": "\"L4F\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "StringLiteral",
-      "offset": 2237,
+      "offset": 2796,
       "length": 5,
       "value": "\"R4F\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2431,
+      "offset": 2990,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2446,
+      "offset": 3005,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2524,
+      "offset": 3083,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2539,
+      "offset": 3098,
       "length": 1,
       "value": "7"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2617,
-      "length": 1,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2632,
-      "length": 1,
-      "value": "8"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2711,
-      "length": 1,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2726,
-      "length": 1,
-      "value": "9"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2803,
-      "length": 1,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2818,
-      "length": 2,
-      "value": "10"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 2996,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3044,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 3080,
-      "length": 12,
-      "value": "\"rightthumb\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3110,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 3146,
-      "length": 12,
-      "value": "\"rightindex\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
@@ -4658,736 +4937,813 @@
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 3212,
-      "length": 13,
-      "value": "\"rightmiddle\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3243,
-      "length": 1,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 3279,
-      "length": 11,
-      "value": "\"rightring\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3308,
-      "length": 1,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 3344,
-      "length": 13,
-      "value": "\"rightlittle\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3375,
-      "length": 1,
-      "value": "6"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 3411,
-      "length": 11,
-      "value": "\"leftthumb\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3440,
-      "length": 1,
-      "value": "7"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 3476,
-      "length": 11,
-      "value": "\"leftindex\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3505,
+      "offset": 3191,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 3541,
-      "length": 12,
-      "value": "\"leftmiddle\""
+      "kind": "IntegerLiteral",
+      "offset": 3270,
+      "length": 1,
+      "value": "4"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3571,
+      "offset": 3285,
       "length": 1,
       "value": "9"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 3607,
-      "length": 10,
-      "value": "\"leftring\""
+      "kind": "IntegerLiteral",
+      "offset": 3362,
+      "length": 1,
+      "value": "5"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3635,
+      "offset": 3377,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "StringLiteral",
-      "offset": 3672,
-      "length": 12,
-      "value": "\"leftlittle\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3920,
-      "length": 4,
-      "value": "8000"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3958,
-      "length": 4,
-      "value": "9101"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3988,
-      "length": 4,
-      "value": "8150"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4023,
-      "length": 4,
-      "value": "8151"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4062,
-      "length": 4,
-      "value": "8154"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4096,
-      "length": 4,
-      "value": "9104"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4120,
-      "length": 4,
-      "value": "9105"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4157,
-      "length": 4,
-      "value": "9106"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4185,
-      "length": 4,
-      "value": "9107"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4214,
-      "length": 4,
-      "value": "9108"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4254,
-      "length": 4,
-      "value": "9109"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4284,
-      "length": 4,
-      "value": "9116"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4318,
-      "length": 4,
-      "value": "9117"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4352,
-      "length": 4,
-      "value": "9118"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4389,
-      "length": 4,
-      "value": "9150"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4428,
-      "length": 4,
-      "value": "9152"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4466,
-      "length": 4,
-      "value": "9153"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4505,
-      "length": 4,
-      "value": "9200"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4544,
-      "length": 4,
-      "value": "9201"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 4658,
-      "length": 24,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 4675,
-      "length": 1,
-      "value": "\":Exito\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 4747,
-      "length": 43,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 4764,
-      "length": 1,
-      "value": "\":Credenciales incorrectas\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 4851,
-      "length": 50,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 4868,
-      "length": 1,
-      "value": "\":El usuario cancelo la operacion\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 4952,
-      "length": 45,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 4969,
-      "length": 1,
-      "value": "\":La captura no retorno data\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5061,
-      "length": 59,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5078,
-      "length": 1,
-      "value": "\":Error en la inicializacion de la captura\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5175,
-      "length": 58,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5192,
-      "length": 1,
-      "value": "\":Error al obtener la imagen de la camara\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5289,
-      "length": 48,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5306,
-      "length": 1,
-      "value": "\":Error de acceso a la libreria\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5404,
-      "length": 36,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5421,
-      "length": 1,
-      "value": "\":Licencia caducada\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5497,
-      "length": 48,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5514,
-      "length": 1,
-      "value": "\":Finalizo el tiempo de captura\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5606,
-      "length": 62,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5623,
-      "length": 1,
-      "value": "\":Captura insatisfactoria, posible dedo falso\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5729,
-      "length": 42,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5746,
-      "length": 1,
-      "value": "\":Captura insatisfactoria\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5835,
-      "length": 46,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5852,
-      "length": 1,
-      "value": "\":Error en licencia de Identy\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5947,
-      "length": 34,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5964,
-      "length": 1,
-      "value": "\":Error SafetyNet\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 6046,
-      "length": 51,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 6063,
-      "length": 1,
-      "value": "\":Limite de transacciones excedida\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 6163,
-      "length": 51,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 6180,
-      "length": 1,
-      "value": "\":Uno o mas parametros incorrectos\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 6276,
-      "length": 49,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 6293,
-      "length": 1,
-      "value": "\":No se permite uso de simulador\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 6370,
+      "offset": 3555,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3920,
+      "offset": 3603,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3639,
+      "length": 12,
+      "value": "\"rightthumb\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3669,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3705,
+      "length": 12,
+      "value": "\"rightindex\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3735,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3771,
+      "length": 13,
+      "value": "\"rightmiddle\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3802,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3838,
+      "length": 11,
+      "value": "\"rightring\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3867,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3903,
+      "length": 13,
+      "value": "\"rightlittle\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3934,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3970,
+      "length": 11,
+      "value": "\"leftthumb\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3999,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4035,
+      "length": 11,
+      "value": "\"leftindex\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4064,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4100,
+      "length": 12,
+      "value": "\"leftmiddle\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4130,
+      "length": 1,
+      "value": "9"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4166,
+      "length": 10,
+      "value": "\"leftring\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4194,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4231,
+      "length": 12,
+      "value": "\"leftlittle\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4479,
       "length": 4,
       "value": "8000"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3958,
+      "offset": 4517,
       "length": 4,
       "value": "9101"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3988,
+      "offset": 4547,
       "length": 4,
       "value": "8150"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4023,
+      "offset": 4582,
       "length": 4,
       "value": "8151"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4062,
+      "offset": 4621,
       "length": 4,
       "value": "8154"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4096,
+      "offset": 4655,
       "length": 4,
       "value": "9104"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4120,
+      "offset": 4679,
       "length": 4,
       "value": "9105"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4157,
+      "offset": 4716,
       "length": 4,
       "value": "9106"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4185,
+      "offset": 4744,
       "length": 4,
       "value": "9107"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4214,
+      "offset": 4773,
       "length": 4,
       "value": "9108"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4254,
+      "offset": 4813,
       "length": 4,
       "value": "9109"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4284,
+      "offset": 4843,
       "length": 4,
       "value": "9116"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4318,
+      "offset": 4877,
       "length": 4,
       "value": "9117"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4352,
+      "offset": 4911,
       "length": 4,
       "value": "9118"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4389,
+      "offset": 4948,
       "length": 4,
       "value": "9150"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4428,
+      "offset": 4987,
       "length": 4,
       "value": "9152"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4466,
+      "offset": 5025,
       "length": 4,
       "value": "9153"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4505,
+      "offset": 5064,
       "length": 4,
       "value": "9200"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4544,
+      "offset": 5103,
+      "length": 4,
+      "value": "9201"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5217,
+      "length": 24,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5234,
+      "length": 1,
+      "value": "\":Exito\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5306,
+      "length": 43,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5323,
+      "length": 1,
+      "value": "\":Credenciales incorrectas\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5410,
+      "length": 50,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5427,
+      "length": 1,
+      "value": "\":El usuario cancelo la operacion\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5511,
+      "length": 45,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5528,
+      "length": 1,
+      "value": "\":La captura no retorno data\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5620,
+      "length": 59,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5637,
+      "length": 1,
+      "value": "\":Error en la inicializacion de la captura\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5734,
+      "length": 58,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5751,
+      "length": 1,
+      "value": "\":Error al obtener la imagen de la camara\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5848,
+      "length": 48,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5865,
+      "length": 1,
+      "value": "\":Error de acceso a la libreria\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5963,
+      "length": 36,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5980,
+      "length": 1,
+      "value": "\":Licencia caducada\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 6056,
+      "length": 48,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 6073,
+      "length": 1,
+      "value": "\":Finalizo el tiempo de captura\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 6165,
+      "length": 62,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 6182,
+      "length": 1,
+      "value": "\":Captura insatisfactoria, posible dedo falso\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 6288,
+      "length": 42,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 6305,
+      "length": 1,
+      "value": "\":Captura insatisfactoria\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 6394,
+      "length": 46,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 6411,
+      "length": 1,
+      "value": "\":Error en licencia de Identy\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 6506,
+      "length": 34,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 6523,
+      "length": 1,
+      "value": "\":Error SafetyNet\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 6605,
+      "length": 51,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 6622,
+      "length": 1,
+      "value": "\":Limite de transacciones excedida\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 6722,
+      "length": 51,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 6739,
+      "length": 1,
+      "value": "\":Uno o mas parametros incorrectos\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 6835,
+      "length": 49,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 6852,
+      "length": 1,
+      "value": "\":No se permite uso de simulador\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 6929,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4479,
+      "length": 4,
+      "value": "8000"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4517,
+      "length": 4,
+      "value": "9101"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4547,
+      "length": 4,
+      "value": "8150"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4582,
+      "length": 4,
+      "value": "8151"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4621,
+      "length": 4,
+      "value": "8154"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4655,
+      "length": 4,
+      "value": "9104"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4679,
+      "length": 4,
+      "value": "9105"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4716,
+      "length": 4,
+      "value": "9106"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4744,
+      "length": 4,
+      "value": "9107"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4773,
+      "length": 4,
+      "value": "9108"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4813,
+      "length": 4,
+      "value": "9109"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4843,
+      "length": 4,
+      "value": "9116"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4877,
+      "length": 4,
+      "value": "9117"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4911,
+      "length": 4,
+      "value": "9118"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4948,
+      "length": 4,
+      "value": "9150"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4987,
+      "length": 4,
+      "value": "9152"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5025,
+      "length": 4,
+      "value": "9153"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5064,
+      "length": 4,
+      "value": "9200"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5103,
       "length": 4,
       "value": "9201"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3920,
+      "offset": 4479,
       "length": 4,
       "value": "8000"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3958,
+      "offset": 4517,
       "length": 4,
       "value": "9101"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3988,
+      "offset": 4547,
       "length": 4,
       "value": "8150"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4023,
+      "offset": 4582,
       "length": 4,
       "value": "8151"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4062,
+      "offset": 4621,
       "length": 4,
       "value": "8154"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4096,
+      "offset": 4655,
       "length": 4,
       "value": "9104"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4120,
+      "offset": 4679,
       "length": 4,
       "value": "9105"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4157,
+      "offset": 4716,
       "length": 4,
       "value": "9106"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4185,
+      "offset": 4744,
       "length": 4,
       "value": "9107"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4214,
+      "offset": 4773,
       "length": 4,
       "value": "9108"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4254,
+      "offset": 4813,
       "length": 4,
       "value": "9109"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4284,
+      "offset": 4843,
       "length": 4,
       "value": "9116"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4318,
+      "offset": 4877,
       "length": 4,
       "value": "9117"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4352,
+      "offset": 4911,
       "length": 4,
       "value": "9118"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4389,
+      "offset": 4948,
       "length": 4,
       "value": "9150"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4428,
+      "offset": 4987,
       "length": 4,
       "value": "9152"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4466,
+      "offset": 5025,
       "length": 4,
       "value": "9153"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4505,
+      "offset": 5064,
       "length": 4,
       "value": "9200"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/zytrust\/iOS\/libs\/bitbucket\/zy-lib-onefinger-ios\/zy-lib-onefinger-ios\/Classes\/api\/identy\/ZyTIdentyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4544,
+      "offset": 5103,
       "length": 4,
       "value": "9201"
     }
